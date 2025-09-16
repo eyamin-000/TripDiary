@@ -1,3 +1,3 @@
 TripDiaryManagementSystem - Initial Version
 
-EMON KHAN
+IMON KAHN
