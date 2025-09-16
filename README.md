@@ -1,1 +1,1 @@
-This project is about implimentation details
+This project is about implementation details
